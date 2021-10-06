@@ -1,0 +1,11 @@
+C:\Users\goliat\source\repos\TestyWebApiTC\TestyWebApiTC\obj\Release\net5.0\PubTmp\Out\TestyWebApiTC.exe
+C:\Users\goliat\source\repos\TestyWebApiTC\TestyWebApiTC\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\goliat\source\repos\TestyWebApiTC\TestyWebApiTC\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\goliat\source\repos\TestyWebApiTC\TestyWebApiTC\obj\Release\net5.0\PubTmp\Out\TestyWebApiTC.dll
+C:\Users\goliat\source\repos\TestyWebApiTC\TestyWebApiTC\obj\Release\net5.0\PubTmp\Out\TestyWebApiTC.deps.json
+C:\Users\goliat\source\repos\TestyWebApiTC\TestyWebApiTC\obj\Release\net5.0\PubTmp\Out\TestyWebApiTC.runtimeconfig.json
+C:\Users\goliat\source\repos\TestyWebApiTC\TestyWebApiTC\obj\Release\net5.0\PubTmp\Out\TestyWebApiTC.pdb
+C:\Users\goliat\source\repos\TestyWebApiTC\TestyWebApiTC\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\goliat\source\repos\TestyWebApiTC\TestyWebApiTC\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\goliat\source\repos\TestyWebApiTC\TestyWebApiTC\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\goliat\source\repos\TestyWebApiTC\TestyWebApiTC\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
